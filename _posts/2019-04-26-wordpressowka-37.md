@@ -1,7 +1,7 @@
 ---
 ID: 327
 post_title: 'WordPressówka #37'
-author: palmiak
+author: admin
 post_excerpt: ""
 layout: post
 permalink: >
