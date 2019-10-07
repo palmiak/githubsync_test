@@ -1,0 +1,35 @@
+---
+ID: 74
+post_title: 'WordPressówka #25'
+author: palmiak
+post_excerpt: ""
+layout: post
+permalink: >
+  http://localhost/wordpressowka/2019/02/01/wordpressowka-25/
+published: true
+post_date: 2019-02-01 16:37:15
+---
+<!-- wp:paragraph -->
+<p> Oto pierwsza lutowa <a href="https://web.facebook.com/wordpressowka/?__tn__=K-R&amp;eid=ARBPpouLEH-ORl5NpxKCWZOT0Vk_1F0-0uPINfH2eH3vGgJBeBeFyP2ooMQ93I-xANaJZsGK_VyEHSjJ&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAMyoPM_tUg4Y64MIm2xCGo562pi5Jaz8lFHadQO6H6xe5Lbz1LdeORP_VrAu03gNi0xZGjfQ5WDVYkLViEkau_LTo93BP5BwRTMcaULGHHYtDdJpmg21yEJ6Fb9XMm_RFL2EfYzTbbwgSkg4iZ9grqFs1blXem7Lc_I_eS1xOxc3lqNCAuMiNJUJV01c7rufdsIQP_D23Pg7ToPP5agXNKa_-QUEDQXWrxGS7tuMQR0p32walv1349zbN1RPag0HBeqKGym3R077MLOm4w5CVDnpNQon6Wvdr0KR-AftlYlW8AktX3XQadWRVp6RfbDxhtJ8GPQ-rK6lKeEE6UMpRoRITb">WordPressówka</a> z artykułami polecającymi się na weekend 🦉😍🐼 </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:acf/owl-link {"id":"block_5c697fe38e417","data":{"field_5c5706bb6e493":"\u003cp\u003eSucuri opisuje gdzie można ukryć malware - muszę przyznać, ze jestem pod wrażeniem:\u003c/p\u003e","field_5c5706f36e494":{"title":"Spam Injector Disguised as License Key in WordPress Website","url":"https://blog.sucuri.net/2019/01/spam-injector-disguised-as-license-key-in-wordpress.html?fbclid=IwAR3MTqsM1cG-bxLACUVED7X3gDyyp91O050LCcVcVre0Z0UDC7VxfSBX100","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c69800c8e418","data":{"field_5c5706bb6e493":"\u003cp\u003eJak w kilku krokach dostosować panel admina pod indywidualne wymagania klienta:\u003c/p\u003e","field_5c5706f36e494":{"title":"How to Create a WordPress Custom Dashboard for Yourself or Clients","url":"https://kinsta.com/blog/wordpress-custom-dashboard/?fbclid=IwAR1tz9_-RhDt6NfwFznC9rmRHBy4BDgyk8hMibzAH4kvoXuPj7byNNduPp8","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c69805c8e419","data":{"field_5c5706bb6e493":"\u003cp\u003eW WordPress 5.1 beta 3 niestety usunięto mechanizm zabezpieczenia przed Fatal Errors - wszystko z powodu potencjalnych problemów z zabezpieczaniami. Dobra wiadomość jest taka, ze w 5.2 mechanizm już będzie działał:\u003c/p\u003e","field_5c5706f36e494":{"title":"WordPress 5.1 Beta 3 Delay","url":"https://make.wordpress.org/core/2019/01/30/wordpress-5-1-beta-3-delay/?fbclid=IwAR1A8Fo9KyQduKl8okxkFWNh4PZtR76et_JuN9_qwAdA_e3A00xGoUIspcM","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c6980828e41a","data":{"field_5c5706bb6e493":"\u003cp\u003eWP Acceptance czyli jak sama nazwa mówi - narzędzie do do tworzenia acceptance tests. W sumie nie mogę się doczekać by wytestować:\u003c/p\u003e","field_5c5706f36e494":{"title":"Introducing WP Acceptance","url":"https://10up.com/blog/2019/introducing-wp-acceptance/?fbclid=IwAR1aVF065q12xI0k1krwQBwAleGOvTv4UKCEZaYRoLXvmfOg7ADanBct8mc","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c6980a68e41b","data":{"field_5c5706bb6e493":"\u003cp\u003eKrótki poradnik o tym jak stylować pola od ACF w Gutenbergu:\u003c/p\u003e","field_5c5706f36e494":{"title":" Set Default Styling for Advanced Custom Fields (ACF) Block Editor in Edit Mode","url":"https://whiteleydesigns.com/set-default-styling-for-advanced-custom-fields-acf-block-editor-in-edit-mode/?fbclid=IwAR0G6Gl-Cb6hW8Ot74467uSEsCDBDYOTjIPG51MgYzOCtpSiV0UdKJtnCDk","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c6980d08e41c","data":{"field_5c5706bb6e493":"\u003cp\u003eCzy Twój motyw jest na pewno przygotowany na Gutenberga?\u003c/p\u003e","field_5c5706f36e494":{"title":"Hey WordPress Theme Developers, Are Your Themes Ready for the Gutenberg Block Editor? ","url":"https://deliciousbrains.com/preparing-wordpress-themes-gutenberg/?fbclid=IwAR3DhceD3Slad1BToewTIjEu3VTYnd-4_zUXlq-By4fQfNKzFVxZTuc3394","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c6981028e41d","data":{"field_5c5706bb6e493":"\u003cp\u003eZestaw narzędzi, od instalacji których zawsze powinniśmy zacząć development:\u003c/p\u003e","field_5c5706f36e494":{"title":"wp-dev-lib","url":"https://github.com/xwp/wp-dev-lib?fbclid=IwAR3ZJcNiL-VPwB1PqVbJbj_eNydO2zCi52Ig5P421gQ77tXYA5iMLmv5yvM","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:paragraph -->
+<p>
+Ponadto przed nami kolejne WordUpy. <br> Zapraszamy na WordUp Łódź <a href="https://web.facebook.com/worduplodz/?__tn__=K-R&amp;eid=ARDqJrmu1I7KfmfhJ82z_0uR_p-LWESA2icuknifU_MsNwcqWv0QxmKIUDZG7SswlUWhSpZBdYdUHtod&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAMyoPM_tUg4Y64MIm2xCGo562pi5Jaz8lFHadQO6H6xe5Lbz1LdeORP_VrAu03gNi0xZGjfQ5WDVYkLViEkau_LTo93BP5BwRTMcaULGHHYtDdJpmg21yEJ6Fb9XMm_RFL2EfYzTbbwgSkg4iZ9grqFs1blXem7Lc_I_eS1xOxc3lqNCAuMiNJUJV01c7rufdsIQP_D23Pg7ToPP5agXNKa_-QUEDQXWrxGS7tuMQR0p32walv1349zbN1RPag0HBeqKGym3R077MLOm4w5CVDnpNQon6Wvdr0KR-AftlYlW8AktX3XQadWRVp6RfbDxhtJ8GPQ-rK6lKeEE6UMpRoRITb">WordUp Łódź</a> 7 lutego w <a href="https://web.facebook.com/skyhublodzkie/?__tn__=K-R&amp;eid=ARDETFmnCQq-BO53vteUSk4YuWcnrZlLgmBtGt1tsBfYgljw42mYZ5ci-6vdRsX88nd5ZrOg2JbKKkuG&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAMyoPM_tUg4Y64MIm2xCGo562pi5Jaz8lFHadQO6H6xe5Lbz1LdeORP_VrAu03gNi0xZGjfQ5WDVYkLViEkau_LTo93BP5BwRTMcaULGHHYtDdJpmg21yEJ6Fb9XMm_RFL2EfYzTbbwgSkg4iZ9grqFs1blXem7Lc_I_eS1xOxc3lqNCAuMiNJUJV01c7rufdsIQP_D23Pg7ToPP5agXNKa_-QUEDQXWrxGS7tuMQR0p32walv1349zbN1RPag0HBeqKGym3R077MLOm4w5CVDnpNQon6Wvdr0KR-AftlYlW8AktX3XQadWRVp6RfbDxhtJ8GPQ-rK6lKeEE6UMpRoRITb">SkyHub</a>. <br> Oraz <a href="https://web.facebook.com/WordUpKrakow/?__tn__=K-R&amp;eid=ARAuKTm5kt42TIyA5F7Z6sWYxPy4psEMr_jKDtytROfHpwau_DfuSkxxvhNLfTwe086XIB8CQcukkD-C&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAMyoPM_tUg4Y64MIm2xCGo562pi5Jaz8lFHadQO6H6xe5Lbz1LdeORP_VrAu03gNi0xZGjfQ5WDVYkLViEkau_LTo93BP5BwRTMcaULGHHYtDdJpmg21yEJ6Fb9XMm_RFL2EfYzTbbwgSkg4iZ9grqFs1blXem7Lc_I_eS1xOxc3lqNCAuMiNJUJV01c7rufdsIQP_D23Pg7ToPP5agXNKa_-QUEDQXWrxGS7tuMQR0p32walv1349zbN1RPag0HBeqKGym3R077MLOm4w5CVDnpNQon6Wvdr0KR-AftlYlW8AktX3XQadWRVp6RfbDxhtJ8GPQ-rK6lKeEE6UMpRoRITb">WordUp Kraków</a> 15 lutego w <a href="https://web.facebook.com/domowkacafe/?__tn__=K-R&amp;eid=ARD724DN2FXKXyjQRvA4NAC1ChVZhruO9q6zK3irQaHWyg0OGhtAUNztk0o3eUv_8xHV99AXwa5yN45I&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARAMyoPM_tUg4Y64MIm2xCGo562pi5Jaz8lFHadQO6H6xe5Lbz1LdeORP_VrAu03gNi0xZGjfQ5WDVYkLViEkau_LTo93BP5BwRTMcaULGHHYtDdJpmg21yEJ6Fb9XMm_RFL2EfYzTbbwgSkg4iZ9grqFs1blXem7Lc_I_eS1xOxc3lqNCAuMiNJUJV01c7rufdsIQP_D23Pg7ToPP5agXNKa_-QUEDQXWrxGS7tuMQR0p32walv1349zbN1RPag0HBeqKGym3R077MLOm4w5CVDnpNQon6Wvdr0KR-AftlYlW8AktX3XQadWRVp6RfbDxhtJ8GPQ-rK6lKeEE6UMpRoRITb">Domówka Cafe</a>. 
+
+</p>
+<!-- /wp:paragraph -->

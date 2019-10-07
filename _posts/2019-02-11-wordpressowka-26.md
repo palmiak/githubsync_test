@@ -1,0 +1,37 @@
+---
+ID: 72
+post_title: 'WordPressówka #26'
+author: palmiak
+post_excerpt: ""
+layout: post
+permalink: >
+  http://localhost/wordpressowka/2019/02/11/wordpressowka-26/
+published: true
+post_date: 2019-02-11 16:30:52
+---
+<!-- wp:paragraph -->
+<p> Na dobry początek nowego tygodnia mamy dla Was kolejną porcję wordpressowych newsów<br> 🦉🤪☕ </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:acf/owl-link {"id":"block_5c697e4ccc81b","data":{"field_5c5706bb6e493":"\u003cp\u003eNowa szefowa \u003ca class=\u0022profileLink\u0022 href=\u0022https://web.facebook.com/yoast/?__tn__=K-R\u0026amp;eid=ARBMdtbs_cq1Vzd2I5nK_KBnffKkH5MVMYaByQUxo-1drBfGXISi77W3PtZr882iQbz9tpuDXjUURkU8\u0026amp;fref=mentions\u0026amp;__xts__%5B0%5D=68.ARDQB8SvQq66lRvEzJf7uxoZT8LM-GFCV1ib_ELy8QmC9Ewo6WqwmV9Y5i7ak6wsXH-Wws0uFSW7SDa9aHSoLcsvcHh_wHv9ej6X_hWTq04OmQsHmvKNx-fMZef1h4tQdNmVcY40p_N97llnbngBfNEem7mfvd76Njp5JYu-3tbBLzZhh-hb8BkacSlTC35UTgL0fMO4sN077r0dK9xshZD0AHdDnxs7ZQaxB14D5ARv7rfYIvEHbnrrUKWvDX0q4sltDXwmNkS5MtpQCOxyNWq_GPjeanrmLzwMUxvCrr4xMKqjalZgzjl0tqmTnZQEN46GHffkn7ug4NgNoX4XIXC2Fahe\u0022 data-hovercard=\u0022/ajax/hovercard/page.php?id=120513077963353\u0026amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARBMdtbs_cq1Vzd2I5nK_KBnffKkH5MVMYaByQUxo-1drBfGXISi77W3PtZr882iQbz9tpuDXjUURkU8%22%2C%22fref%22%3A%22mentions%22%7D\u0022 data-hovercard-prefer-more-content-show=\u00221\u0022\u003eYoast\u003c/a\u003e opowiada o tym jak pracuje się w ich firmie oraz o tym jak ważni są pracownicy:\u003cspan class=\u0022text_exposed_show\u0022\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/p\u003e","field_5c5706f36e494":{"title":"Company Culture: knowing your colleagues","url":"https://marieke.blog/company-culture-knowing-your-colleagues/?fbclid=IwAR07hD4NIuOH1fI9FZkdzlaQKfZLUzHToKFroa-5Hx1U-r7dE3L1GQUS0RA","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697e78cc81c","data":{"field_5c5706bb6e493":"\u003cp\u003eClassicPress właśnie obchodzi półrocznicę:\u003c/p\u003e","field_5c5706f36e494":{"title":"ClassicPress: A Six Month Review","url":"https://www.classicpress.net/blog/2019/02/03/classicpress-a-six-month-review/?fbclid=IwAR02_Wx8vAHHOTMUGsTZSJEIh8zQRaK1jVU5CW6XXZ7qlOyqu8Ho-iJqUU0","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697eaccc81d","data":{"field_5c5706bb6e493":"\u003cp\u003eWooCommerce jako Headless CMS? Ten case pokaże jak to zrobić:\u003c/p\u003e","field_5c5706f36e494":{"title":"No WooCommerce Cart API? No Problem.","url":"https://www.joshuaiz.com/words/no-woocommerce-cart-api-no-problem/?fbclid=IwAR0VHDHvEhcfTMl1bOEpb4gMvPaBsHV5Xk0yI-g5PCbWukKt42gLmEGkpDo","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697ec5cc81e","data":{"field_5c5706bb6e493":"\u003cp\u003eBardzo ważny wpis Mortena o Open Source:\u003c/p\u003e","field_5c5706f36e494":{"title":"On the Corporate Takeover of the Cathedral and the Bazaar","url":"https://mor10.com/on-the-corporate-takeover-of-the-cathedral-and-the-bazaar/?fbclid=IwAR3_Nz53ws8iJ4pnDG3HWKrpK9e4tCB8paYdh4xC95v9SQbPhybOkglKDJg","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697ee7cc81f","data":{"field_5c5706bb6e493":"\u003cp\u003eNowa wersja ACF wprowadza wiele zmian i poprawek, Elliot opisuje jak działa jedna z nich:\u003c/p\u003e","field_5c5706f36e494":{"title":"A Closer Look at Applying Filter Variations in ACF","url":"https://www.advancedcustomfields.com/blog/a-closer-look-at-applying-filter-variations-in-acf/?fbclid=IwAR2HXGJZP0CJIhNYJBqloJLrK_9m0dcl_ztX51QbYjzHoe68gza6RtCJcbU","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697f20cc820","data":{"field_5c5706bb6e493":"\u003cp\u003e\u003ca class=\u0022profileLink\u0022 href=\u0022https://web.facebook.com/wordfence/?__tn__=K-R\u0026amp;eid=ARAuBYtRAHp3MIRxRmdVv3wXsGibevL_qJwJiV0jV56t-b3HeuBt_Hj7KeU5IvKpKiFPx7K12Pk2EfOE\u0026amp;fref=mentions\u0026amp;__xts__%5B0%5D=68.ARDQB8SvQq66lRvEzJf7uxoZT8LM-GFCV1ib_ELy8QmC9Ewo6WqwmV9Y5i7ak6wsXH-Wws0uFSW7SDa9aHSoLcsvcHh_wHv9ej6X_hWTq04OmQsHmvKNx-fMZef1h4tQdNmVcY40p_N97llnbngBfNEem7mfvd76Njp5JYu-3tbBLzZhh-hb8BkacSlTC35UTgL0fMO4sN077r0dK9xshZD0AHdDnxs7ZQaxB14D5ARv7rfYIvEHbnrrUKWvDX0q4sltDXwmNkS5MtpQCOxyNWq_GPjeanrmLzwMUxvCrr4xMKqjalZgzjl0tqmTnZQEN46GHffkn7ug4NgNoX4XIXC2Fahe\u0022 data-hovercard=\u0022/ajax/hovercard/page.php?id=422201294592044\u0026amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARAuBYtRAHp3MIRxRmdVv3wXsGibevL_qJwJiV0jV56t-b3HeuBt_Hj7KeU5IvKpKiFPx7K12Pk2EfOE%22%2C%22fref%22%3A%22mentions%22%7D\u0022 data-hovercard-prefer-more-content-show=\u00221\u0022\u003eWordfence\u003c/a\u003e wprowadza scentralizowaną usługę do śledzenia tego co się dzieje na naszych stronach:\u003c/p\u003e","field_5c5706f36e494":{"title":"Introducing Wordfence Central","url":"https://www.wordfence.com/blog/2019/02/introducing-wordfence-central/?fbclid=IwAR1Yb78n8Ft_1N4GQqjorwS36NttkyYCT3TNURy7THglpo-vek-vQ2QoEis","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697f45cc821","data":{"field_5c5706bb6e493":"\u003cp\u003eNa YoastCon firma ogłosiła Live Indexing:\u003c/p\u003e","field_5c5706f36e494":{"title":"Live indexing for Bing \u0026amp; Google coming to Yoast SEO","url":"https://yoast.com/live-indexing-bing-google-yoast-seo/#utm_medium=social\u0026utm_source=facebook.com\u0026utm_content=social","target":""}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:acf/owl-link {"id":"block_5c697f6bcc822","data":{"field_5c5706bb6e493":"\u003cp\u003e\u003ca class=\u0022profileLink\u0022 href=\u0022https://web.facebook.com/WCEurope/?__tn__=K-R\u0026amp;eid=ARDfOlkmljr3i4WShy58bOT6itqNVDnr4fjQnSWWB-IuX7YpyI_8e_ROWtof_0JgFnOd7UBMRVmXrgmj\u0026amp;fref=mentions\u0026amp;__xts__%5B0%5D=68.ARDQB8SvQq66lRvEzJf7uxoZT8LM-GFCV1ib_ELy8QmC9Ewo6WqwmV9Y5i7ak6wsXH-Wws0uFSW7SDa9aHSoLcsvcHh_wHv9ej6X_hWTq04OmQsHmvKNx-fMZef1h4tQdNmVcY40p_N97llnbngBfNEem7mfvd76Njp5JYu-3tbBLzZhh-hb8BkacSlTC35UTgL0fMO4sN077r0dK9xshZD0AHdDnxs7ZQaxB14D5ARv7rfYIvEHbnrrUKWvDX0q4sltDXwmNkS5MtpQCOxyNWq_GPjeanrmLzwMUxvCrr4xMKqjalZgzjl0tqmTnZQEN46GHffkn7ug4NgNoX4XIXC2Fahe\u0022 data-hovercard=\u0022/ajax/hovercard/page.php?id=138701019603781\u0026amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARDfOlkmljr3i4WShy58bOT6itqNVDnr4fjQnSWWB-IuX7YpyI_8e_ROWtof_0JgFnOd7UBMRVmXrgmj%22%2C%22fref%22%3A%22mentions%22%7D\u0022 data-hovercard-prefer-more-content-show=\u00221\u0022\u003eWordCamp Europe\u003c/a\u003e opublikował Q\u0026amp;A odnośnie Contributor's Day - od siebie tylko dodam, że Contributor's Day to mój ulubiony dzień każdego WordCampa i bardzo polecam spróbować:\u003c/p\u003e","field_5c5706f36e494":{"title":"Q\u0026amp;A about Contributor Day","url":"https://2019.europe.wordcamp.org/2019/02/06/contributor-day-answers/?fbclid=IwAR0-kazvbj52CKDzAjmXrQqiP18rrEbEEuu0XbcCrI3da_FeC8zXe4FlTv8","target":"_blank"}},"name":"acf/owl-link","align":"","mode":"preview"} /-->
+
+<!-- wp:paragraph -->
+<p>
+PS. Szykujemy dla Was niespodziankę i drobne zmiany na WordPressówce, <br> prace trwają na pełnych obrotach! 🤓
+
+</p>
+<!-- /wp:paragraph -->
