@@ -1,8 +1,8 @@
 ---
 ID: 345
-post_title: 'WordPressówka #39'
+post_title: 'WordPressówka #39a'
 author: palmiak
-post_excerpt: kalafior 123
+post_excerpt: 'kalafior 123'
 layout: post
 permalink: >
   http://localhost/wordpressowka/2019/05/10/wordpressowka-39/
