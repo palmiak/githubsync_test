@@ -2,7 +2,8 @@
 ID: 400
 post_title: 'WordPressówka #40'
 author: palmiak
-post_excerpt: TESTER
+post_excerpt: |
+  plum
 layout: post
 permalink: >
   http://localhost/wordpressowka/2019/05/17/wordpressowka-40/
