@@ -1,11 +1,11 @@
 ---
 ID: 335
-post_title: 'WordPressówka #38'
-author: palmiak
+post_title: 'WordPressówka #38aaa'
+author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://localhost/wordpressowka/2019/05/06/wordpressowka-38/
+  http://localhost/wordpressowka/2019/05/06/wordpressowka-38asd/
 published: true
 post_date: 2019-05-06 13:20:47
 ---
