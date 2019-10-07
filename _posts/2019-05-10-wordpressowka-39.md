@@ -2,10 +2,10 @@
 ID: 345
 post_title: 'WordPressówka #39c'
 author: admin
-post_excerpt: 'kalafior 777'
+post_excerpt: kalafior 777
 layout: post
 permalink: >
-  http://localhost/wordpressowka/2019/05/10/wordpressowka-39d/
+  http://localhost/wordpressowka/2019/05/10/wordpressowka-39/
 published: true
 post_date: 2019-05-10 11:37:46
 ---
@@ -15,13 +15,13 @@ post_date: 2019-05-10 11:37:46
 
 <!-- wp:acf/owl-link {
     "id": "block_5cd4ae0acce2d",
-    "name": "acf\/owl-link",
+    "name": "acf/owl-link",
     "data": {
-        "opis": "<p>Dzisiejszą porcję newsów zaczniemy od WordPress'a 5.2 \"Jaco\". Dodano w nim dwie naprawdę rzeczy - \"Site Health Check\" oraz zabezpieczenie przed błędami PHP.<\/p>",
+        "opis": "<p>Dzisiejszą porcję newsów zaczniemy od WordPress'a 5.2 "Jaco". Dodano w nim dwie naprawdę rzeczy - "Site Health Check" oraz zabezpieczenie przed błędami PHP.</p>",
         "_opis": "field_5c5706bb6e493",
         "link": {
             "title": "Version 5.2",
-            "url": "https:\/\/wordpress.org\/support\/wordpress-version\/version-5-2\/",
+            "url": "https://wordpress.org/support/wordpress-version/version-5-2/",
             "target": "_blank"
         },
         "_link": "field_5c5706f36e494"
