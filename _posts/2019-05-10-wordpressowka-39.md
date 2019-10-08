@@ -1,6 +1,6 @@
 ---
 ID: 345
-post_title: 'WordPressówka #39c'
+post_title: 'WordPressówka #39d'
 author: palmiak
 post_excerpt: kalafior 777
 layout: post
