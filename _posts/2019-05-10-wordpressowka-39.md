@@ -5,7 +5,7 @@ author: palmiak
 post_excerpt: kalafior 777
 layout: post
 permalink: >
-  http://localhost/wordpressowka/2019/05/10/wordpressowka-39/
+  http://localhost/wordpressowka/2019/05/10/wordpressowka-39a/
 published: true
 post_date: 2019-05-10 11:37:46
 ---
