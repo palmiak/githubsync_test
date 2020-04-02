@@ -10,7 +10,7 @@ published: true
 post_date: 2020-04-02 14:22:34
 ---
 <!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nibh aliquet, rutrum tellus ac, vestibulum sem. Maecenas facilisis sem nunc, eget volutpat odio tempor et. Vestibulum imperdiet scelerisque risus id dictum. Donec auctor, turpis in aliquam dignissim, est dolor dapibus tellus, a pulvinar diam purus et est. Donec nibh libero, blandit ut lorem quis, euismod posuere justo. Proin eget tortor cursus urna facilisis auctor id in arcu. Donec nec fringilla massa. Quisque nisi magna, condimentum eget lobortis vel, dignissim at est. Fusce dapibus eu sapien eu lobortis. Nam ultricies sollicitudin convallis. Mauris faucibus libero et eros volutpat fringilla. Nunc viverra nulla justo. Cras et pulvinar lorem. Suspendisse in elementum ex.</p>
+<p>Kalafior</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:more {"noTeaser":true} -->
